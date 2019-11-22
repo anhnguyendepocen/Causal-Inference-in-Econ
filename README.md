@@ -9,3 +9,11 @@
 * Regression Kink : https://sites.google.com/site/peizhuan/programs
 * Hansen Econometric book : https://www.ssc.wisc.edu/~bhansen/econometrics/ (Dataset)
                             https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf (Only Academic use)
+                         
+(2)  Stata for Applied Microeconomics     
+* Ref: https://www.soderbom.net/metrix2.htm     
+* Ref: http://www3.grips.ac.jp/~yamanota/yamanoCourses.htm 
+
+(3) R for Intro Microeconomics based on Wooldridge Book
+* Ref: http://www.urfie.net/downloads.html  
+
