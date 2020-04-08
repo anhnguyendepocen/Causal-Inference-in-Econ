@@ -1,4 +1,4 @@
-# MHS and Causal Inference 
+# Applied Econometrics with causal Inference 
 (1) **MHS with R and Python** 
 
 * Reference     : https://github.com/MatthieuStigler/RCompAngrist/tree/master/RCompAngrist
