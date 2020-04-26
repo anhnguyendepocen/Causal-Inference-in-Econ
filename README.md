@@ -1,8 +1,8 @@
 # Applied Econometrics with causal Inference 
 
-* **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/home  
-
-(1) **MHS with R and Python (Graduate) ** 
+* **Weekly Online Causal Inference Seminar**: https://sites.google.com/view/ocis/home    
+  
+(1) **MHS with R and Python (Graduate)** 
 
 * Reference     : https://github.com/MatthieuStigler/RCompAngrist/tree/master/RCompAngrist
 * Reference     : https://github.com/vikjam/mostly-harmless-replication
@@ -14,7 +14,7 @@
                             https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf (Only Academic use)
                            
                          
-(2) **Stata for Applied Microeconomics (Graduate) **     
+(2) **Stata for Applied Microeconomics (Graduate)**     
 * Ref: https://www.soderbom.net/metrix2.htm     
 * Ref: http://www3.grips.ac.jp/~yamanota/yamanoCourses.htm 
 
