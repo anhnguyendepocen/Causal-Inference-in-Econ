@@ -29,7 +29,7 @@
 * Ref: https://www.stata.com/meeting/columbus15/abstracts/materials/columbus15_cattaneo.pdf (stata)     
 * Ref: https://arxiv.org/pdf/1911.09511.pdf        
 
-(5) **Mastering Matrix Resource for Stata and R (Undergraduate) **
+(5) **Mastering Matrix Resource for Stata and R (Undergraduate)**
 * Ref: https://jrnold.github.io/masteringmetrics/index.html (Stata)    
 * Ref: https://www.masteringmetrics.com/resources/ (R)  
 
